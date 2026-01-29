@@ -1,0 +1,286 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-01-29T12:47:50.568Z",
+  "bundles": [
+    {
+      "sourceId": "awesome-copilot-official",
+      "bundleId": "frontend-web-dev",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-official-frontend-web-dev-1",
+          "rating": 5,
+          "comment": "Incredible time-saver! The prompts are intuitive and powerful.",
+          "timestamp": "2026-01-22T12:47:50.568Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-official-frontend-web-dev-2",
+          "rating": 5,
+          "comment": "Excellent bundle! Very helpful prompts that significantly improved my workflow.",
+          "timestamp": "2026-01-15T12:47:50.568Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-skills-official",
+      "bundleId": "skills-github-awesome-copilot-chrome-devtools",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-chrome-devtools-1",
+          "rating": 5,
+          "comment": "Incredible time-saver! The prompts are intuitive and powerful.",
+          "timestamp": "2026-01-22T12:47:50.568Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-chrome-devtools-2",
+          "rating": 5,
+          "comment": "Excellent bundle! Very helpful prompts that significantly improved my workflow.",
+          "timestamp": "2026-01-15T12:47:50.568Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-official",
+      "bundleId": "database-data-management",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-official-database-data-management-1",
+          "rating": 4,
+          "comment": "Solid bundle with good documentation. Works well for most use cases.",
+          "timestamp": "2026-01-22T12:47:50.568Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-official-database-data-management-2",
+          "rating": 5,
+          "comment": "Incredible time-saver! The prompts are intuitive and powerful.",
+          "timestamp": "2026-01-15T12:47:50.568Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-skills-official",
+      "bundleId": "skills-github-awesome-copilot-azure-deployment-preflight",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-azure-deployment-preflight-1",
+          "rating": 4,
+          "comment": "Very useful prompts. Minor improvements could be made to error handling.",
+          "timestamp": "2026-01-22T12:47:50.568Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-azure-deployment-preflight-2",
+          "rating": 5,
+          "comment": "This has become an essential part of my daily development toolkit.",
+          "timestamp": "2026-01-15T12:47:50.568Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-skills-official",
+      "bundleId": "skills-github-awesome-copilot-gh-cli",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-gh-cli-1",
+          "rating": 5,
+          "comment": "Excellent bundle! Very helpful prompts that significantly improved my workflow.",
+          "timestamp": "2026-01-22T12:47:50.568Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-gh-cli-2",
+          "rating": 5,
+          "comment": "Outstanding quality. The prompts are well-structured and easy to use.",
+          "timestamp": "2026-01-15T12:47:50.568Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-official",
+      "bundleId": "typescript-mcp-development",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-official-typescript-mcp-development-1",
+          "rating": 5,
+          "comment": "This has become an essential part of my daily development toolkit.",
+          "timestamp": "2026-01-22T12:47:50.568Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-official-typescript-mcp-development-2",
+          "rating": 3,
+          "comment": "Good starting point, but needs more customization options.",
+          "timestamp": "2026-01-15T12:47:50.568Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-official",
+      "bundleId": "ruby-mcp-development",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-official-ruby-mcp-development-1",
+          "rating": 5,
+          "comment": "Incredible time-saver! The prompts are intuitive and powerful.",
+          "timestamp": "2026-01-22T12:47:50.568Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-official-ruby-mcp-development-2",
+          "rating": 5,
+          "comment": "Excellent bundle! Very helpful prompts that significantly improved my workflow.",
+          "timestamp": "2026-01-15T12:47:50.568Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-official",
+      "bundleId": "openapi-to-application-nodejs-nestjs",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-official-openapi-to-application-nodejs-nestjs-1",
+          "rating": 5,
+          "comment": "Outstanding quality. The prompts are well-structured and easy to use.",
+          "timestamp": "2026-01-22T12:47:50.568Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-official-openapi-to-application-nodejs-nestjs-2",
+          "rating": 4,
+          "comment": "Great bundle overall. Would love to see more examples in the documentation.",
+          "timestamp": "2026-01-15T12:47:50.568Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-skills-official",
+      "bundleId": "skills-github-awesome-copilot-snowflake-semanticview",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-snowflake-semanticview-1",
+          "rating": 4,
+          "comment": "Great bundle overall. Would love to see more examples in the documentation.",
+          "timestamp": "2026-01-22T12:47:50.568Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-snowflake-semanticview-2",
+          "rating": 4,
+          "comment": "Very useful prompts. Minor improvements could be made to error handling.",
+          "timestamp": "2026-01-15T12:47:50.568Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-official",
+      "bundleId": "structured-autonomy-collection",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-official-structured-autonomy-collection-1",
+          "rating": 5,
+          "comment": "Incredible time-saver! The prompts are intuitive and powerful.",
+          "timestamp": "2026-01-22T12:47:50.569Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-official-structured-autonomy-collection-2",
+          "rating": 5,
+          "comment": "Excellent bundle! Very helpful prompts that significantly improved my workflow.",
+          "timestamp": "2026-01-15T12:47:50.569Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-skills-official",
+      "bundleId": "skills-github-awesome-copilot-legacy-circuit-mockups",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-legacy-circuit-mockups-1",
+          "rating": 5,
+          "comment": "Excellent bundle! Very helpful prompts that significantly improved my workflow.",
+          "timestamp": "2026-01-22T12:47:50.569Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-legacy-circuit-mockups-2",
+          "rating": 5,
+          "comment": "Outstanding quality. The prompts are well-structured and easy to use.",
+          "timestamp": "2026-01-15T12:47:50.569Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-official",
+      "bundleId": "clojure-interactive-programming",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-official-clojure-interactive-programming-1",
+          "rating": 5,
+          "comment": "Incredible time-saver! The prompts are intuitive and powerful.",
+          "timestamp": "2026-01-22T12:47:50.569Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-official-clojure-interactive-programming-2",
+          "rating": 5,
+          "comment": "Excellent bundle! Very helpful prompts that significantly improved my workflow.",
+          "timestamp": "2026-01-15T12:47:50.569Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-official",
+      "bundleId": "power-platform-mcp-connector-development",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-official-power-platform-mcp-connector-development-1",
+          "rating": 5,
+          "comment": "This has become an essential part of my daily development toolkit.",
+          "timestamp": "2026-01-22T12:47:50.569Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-official-power-platform-mcp-connector-development-2",
+          "rating": 3,
+          "comment": "Good starting point, but needs more customization options.",
+          "timestamp": "2026-01-15T12:47:50.569Z",
+          "version": "latest"
+        }
+      ]
+    },
+    {
+      "sourceId": "awesome-copilot-skills-official",
+      "bundleId": "skills-github-awesome-copilot-vscode-ext-localization",
+      "feedbacks": [
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-vscode-ext-localization-1",
+          "rating": 5,
+          "comment": "This has become an essential part of my daily development toolkit.",
+          "timestamp": "2026-01-22T12:47:50.569Z",
+          "version": "latest"
+        },
+        {
+          "id": "feedback-awesome-copilot-skills-official-skills-github-awesome-copilot-vscode-ext-localization-2",
+          "rating": 3,
+          "comment": "Good starting point, but needs more customization options.",
+          "timestamp": "2026-01-15T12:47:50.569Z",
+          "version": "latest"
+        }
+      ]
+    }
+  ]
+}
