@@ -1,0 +1,203 @@
+repository: AmadeusITGroup/.prompt-registry-engagement
+collections:
+  - id: frontend-web-dev
+    source_id: awesome-copilot-official
+    discussion_number: 1
+  - id: testing-automation
+    source_id: awesome-copilot-official
+    discussion_number: 2
+  - id: security-best-practices
+    source_id: awesome-copilot-official
+    discussion_number: 3
+  - id: skills-github-awesome-copilot-webapp-testing
+    source_id: awesome-copilot-skills-official
+    discussion_number: 4
+  - id: skills-github-awesome-copilot-web-design-reviewer
+    source_id: awesome-copilot-skills-official
+    discussion_number: 5
+  - id: skills-github-awesome-copilot-chrome-devtools
+    source_id: awesome-copilot-skills-official
+    discussion_number: 6
+  - id: skills-github-awesome-copilot-image-manipulation-image-magick
+    source_id: awesome-copilot-skills-official
+    discussion_number: 7
+  - id: java-development
+    source_id: awesome-copilot-official
+    discussion_number: 8
+  - id: python-general
+    source_id: awesome-copilot-official
+    discussion_number: 9
+  - id: csharp-dotnet-development
+    source_id: awesome-copilot-official
+    discussion_number: 10
+  - id: database-data-management
+    source_id: awesome-copilot-official
+    discussion_number: 11
+  - id: devops-oncall
+    source_id: awesome-copilot-official
+    discussion_number: 12
+  - id: azure-cloud-development
+    source_id: awesome-copilot-official
+    discussion_number: 13
+  - id: pcf-development
+    source_id: awesome-copilot-official
+    discussion_number: 14
+  - id: skills-github-awesome-copilot-appinsights-instrumentation
+    source_id: awesome-copilot-skills-official
+    discussion_number: 15
+  - id: skills-github-awesome-copilot-azure-deployment-preflight
+    source_id: awesome-copilot-skills-official
+    discussion_number: 16
+  - id: skills-github-awesome-copilot-azure-devops-cli
+    source_id: awesome-copilot-skills-official
+    discussion_number: 17
+  - id: skills-github-awesome-copilot-azure-resource-visualizer
+    source_id: awesome-copilot-skills-official
+    discussion_number: 18
+  - id: skills-github-awesome-copilot-azure-role-selector
+    source_id: awesome-copilot-skills-official
+    discussion_number: 19
+  - id: skills-github-awesome-copilot-azure-static-web-apps
+    source_id: awesome-copilot-skills-official
+    discussion_number: 20
+  - id: skills-github-awesome-copilot-gh-cli
+    source_id: awesome-copilot-skills-official
+    discussion_number: 21
+  - id: skills-github-awesome-copilot-github-issues
+    source_id: awesome-copilot-skills-official
+    discussion_number: 22
+  - id: ai-edge-tasks
+    source_id: awesome-copilot-official
+    discussion_number: 23
+  - id: python-mcp-development
+    source_id: awesome-copilot-official
+    discussion_number: 24
+  - id: skills-github-awesome-copilot-agentic-eval
+    source_id: awesome-copilot-skills-official
+    discussion_number: 25
+  - id: typescript-mcp-development
+    source_id: awesome-copilot-official
+    discussion_number: 26
+  - id: java-mcp-development
+    source_id: awesome-copilot-official
+    discussion_number: 27
+  - id: csharp-mcp-development
+    source_id: awesome-copilot-official
+    discussion_number: 28
+  - id: go-mcp-development
+    source_id: awesome-copilot-official
+    discussion_number: 29
+  - id: rust-mcp-development
+    source_id: awesome-copilot-official
+    discussion_number: 30
+  - id: ruby-mcp-development
+    source_id: awesome-copilot-official
+    discussion_number: 31
+  - id: swift-mcp-development
+    source_id: awesome-copilot-official
+    discussion_number: 32
+  - id: kotlin-mcp-development
+    source_id: awesome-copilot-official
+    discussion_number: 33
+  - id: php-mcp-development
+    source_id: awesome-copilot-official
+    discussion_number: 34
+  - id: skills-github-awesome-copilot-mcp-cli
+    source_id: awesome-copilot-skills-official
+    discussion_number: 35
+  - id: openapi-to-application-nodejs-nestjs
+    source_id: awesome-copilot-official
+    discussion_number: 36
+  - id: openapi-to-application-python-fastapi
+    source_id: awesome-copilot-official
+    discussion_number: 37
+  - id: openapi-to-application-java-spring-boot
+    source_id: awesome-copilot-official
+    discussion_number: 38
+  - id: openapi-to-application-csharp-dotnet
+    source_id: awesome-copilot-official
+    discussion_number: 39
+  - id: openapi-to-application-go
+    source_id: awesome-copilot-official
+    discussion_number: 40
+  - id: skills-github-awesome-copilot-snowflake-semanticview
+    source_id: awesome-copilot-skills-official
+    discussion_number: 41
+  - id: project-planning
+    source_id: awesome-copilot-official
+    discussion_number: 42
+  - id: technical-spike
+    source_id: awesome-copilot-official
+    discussion_number: 43
+  - id: cast-imaging
+    source_id: awesome-copilot-official
+    discussion_number: 44
+  - id: software-engineering-team
+    source_id: awesome-copilot-official
+    discussion_number: 45
+  - id: structured-autonomy-collection
+    source_id: awesome-copilot-official
+    discussion_number: 46
+  - id: skills-github-awesome-copilot-plantuml-ascii
+    source_id: awesome-copilot-skills-official
+    discussion_number: 47
+  - id: skills-github-awesome-copilot-prd
+    source_id: awesome-copilot-skills-official
+    discussion_number: 48
+  - id: skills-github-awesome-copilot-refactor
+    source_id: awesome-copilot-skills-official
+    discussion_number: 49
+  - id: skills-github-awesome-copilot-git-commit
+    source_id: awesome-copilot-skills-official
+    discussion_number: 50
+  - id: skills-github-awesome-copilot-legacy-circuit-mockups
+    source_id: awesome-copilot-skills-official
+    discussion_number: 51
+  - id: dataverse-sdk-for-python
+    source_id: awesome-copilot-official
+    discussion_number: 52
+  - id: skills-github-awesome-copilot-nuget-manager
+    source_id: awesome-copilot-skills-official
+    discussion_number: 53
+  - id: skills-github-awesome-copilot-microsoft-code-reference
+    source_id: awesome-copilot-skills-official
+    discussion_number: 54
+  - id: skills-github-awesome-copilot-microsoft-docs
+    source_id: awesome-copilot-skills-official
+    discussion_number: 55
+  - id: clojure-interactive-programming
+    source_id: awesome-copilot-official
+    discussion_number: 56
+  - id: mcp-m365-copilot
+    source_id: awesome-copilot-official
+    discussion_number: 57
+  - id: typespec-m365-copilot
+    source_id: awesome-copilot-official
+    discussion_number: 58
+  - id: power-apps-code-apps
+    source_id: awesome-copilot-official
+    discussion_number: 59
+  - id: power-bi-development
+    source_id: awesome-copilot-official
+    discussion_number: 60
+  - id: power-platform-mcp-connector-development
+    source_id: awesome-copilot-official
+    discussion_number: 61
+  - id: copilot-sdk
+    source_id: awesome-copilot-official
+    discussion_number: 62
+  - id: partners
+    source_id: awesome-copilot-official
+    discussion_number: 63
+  - id: skills-github-awesome-copilot-make-skill-template
+    source_id: awesome-copilot-skills-official
+    discussion_number: 64
+  - id: skills-github-awesome-copilot-vscode-ext-commands
+    source_id: awesome-copilot-skills-official
+    discussion_number: 65
+  - id: skills-github-awesome-copilot-vscode-ext-localization
+    source_id: awesome-copilot-skills-official
+    discussion_number: 66
+  - id: awesome-copilot
+    source_id: awesome-copilot-official
+    discussion_number: 67
