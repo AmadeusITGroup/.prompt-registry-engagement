@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T11:55:53.416Z",
+  "generated_at": "2026-02-03T12:03:46.082Z",
   "repository": "AmadeusITGroup/.prompt-registry-engagement",
   "collections": {
     "frontend-web-dev": {
@@ -11,6 +11,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -23,6 +24,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -35,6 +37,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -47,6 +50,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -59,6 +63,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -71,6 +76,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -83,6 +89,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -95,6 +102,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -107,6 +115,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -119,6 +128,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -131,6 +141,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -143,6 +154,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -155,6 +167,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -167,6 +180,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -179,6 +193,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -191,6 +206,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -203,6 +219,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -215,6 +232,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -227,6 +245,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -239,6 +258,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -251,6 +271,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -263,6 +284,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -275,6 +297,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -287,6 +310,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -299,6 +323,7 @@
       "bayesian_score": 5,
       "aggregated_score": 1,
       "star_rating": 5,
+      "rating_count": 1,
       "confidence": "low",
       "resources": {}
     },
@@ -311,6 +336,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -323,6 +349,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -335,6 +362,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -347,6 +375,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -359,6 +388,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -371,6 +401,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -383,6 +414,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -395,6 +427,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -407,6 +440,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -419,6 +453,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -431,6 +466,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -443,6 +479,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -455,6 +492,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -467,6 +505,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -479,6 +518,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -491,6 +531,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -503,6 +544,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -515,6 +557,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -527,6 +570,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -539,6 +583,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -551,6 +596,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -563,6 +609,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -575,6 +622,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -587,6 +635,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -599,6 +648,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -611,6 +661,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -623,6 +674,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -635,6 +687,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -647,6 +700,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -659,6 +713,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -671,6 +726,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -683,6 +739,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -695,6 +752,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -707,6 +765,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -719,6 +778,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -731,6 +791,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -743,6 +804,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -755,6 +817,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -767,6 +830,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -779,6 +843,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -791,6 +856,7 @@
       "bayesian_score": 0,
       "aggregated_score": 0,
       "star_rating": 0,
+      "rating_count": 0,
       "confidence": "low",
       "resources": {}
     },
@@ -803,6 +869,7 @@
       "bayesian_score": 1,
       "aggregated_score": 0,
       "star_rating": 1,
+      "rating_count": 1,
       "confidence": "low",
       "resources": {}
     }
